@@ -1,16 +1,38 @@
-# go_finance
+# 💰 Go Finance
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## Getting Started
+Aplikasi manajemen keuangan pribadi berbasis Flutter. Dibuat sebagai proyek PJBL kelas 11 SMKN 8 Semarang.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Fitur
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Splash Screen & Onboarding
+- Login & Registrasi akun
+- Animasi halus dan tampilan modern
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Teknologi
+
+- **Flutter** — framework utama
+- **Dart** — bahasa pemrograman
+- **Flutter Web** — build untuk browser
+
+## 🚀 Cara Jalankan
+
+```bash
+flutter pub get
+flutter run
+```
+
+Untuk web:
+
+```bash
+flutter build web --release
+```
+
+---
+
+> Dibuat oleh **Reizo Rajendra** — SMKN 8 Semarang
